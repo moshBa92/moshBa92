@@ -11,8 +11,6 @@
   
 - 📫 How to reach me **basall7@gmail.com**
 
-- 📄 Portfolio **https://artem-kot-portfolio.netlify.app**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="linkedin.com/in/moshe-basall/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/moshe-basall/" height="30" width="40" /></a>
@@ -30,16 +28,14 @@
 # 💫 About Me:
 
 
-<p>Hi I'm Artem , i'm software practical engineer from israel</p>
+<p>Hi I'm Moshe , i'm software practical engineer from israel</p>
 
 📫 How to reach me  : basall7@gmail.com
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/people/Artem-Kot/100007268836178/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/artem-kot-a571aa20b)
-[![portfolio](https://img.shields.io/badge/%F0%9F%93%84-Portfolio-orange)](https://artem-kot-portfolio.netlify.app) 
-
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/moshiko.basal1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moshe-basall/)
 
 
 ## 💻 Tech Stack:
